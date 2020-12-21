@@ -2,7 +2,7 @@
 
 ## Lezione 1 
 
-#### [Introduzione](Lezione 1/Lezione 1 - Intro.pdf)
+#### [Introduzione](https://github.com/SimoneMF/Reti-Course-AIEngineering/blob/master/Lezione%201/Lezione%201%20-%20Intro.pdf)
   - Presentazioni
   - Storia della AI
   - Definizioni
@@ -10,8 +10,8 @@
   - Caratteristiche progetti AI
   - Tecnologie
   - Caratteristiche corso
-#### [Python - Introduzione a Python](Lezione 1/Lezione 1 - Introduzione a Python.ipynb)
-#### [Introduzione a Python - Soluzioni](Lezione 1/Lezione 1 - Soluzioni.ipynb)
+#### [Python - Introduzione a Python](https://github.com/SimoneMF/Reti-Course-AIEngineering/blob/master/Lezione%201/Lezione%201%20-%20Introduzione%20a%20Python.ipynb)
+#### [Introduzione a Python - Soluzioni](https://github.com/SimoneMF/Reti-Course-AIEngineering/blob/master/Lezione%201/Lezione%201%20-%20Soluzioni.ipynb)
 
 ## Lezione 2
 

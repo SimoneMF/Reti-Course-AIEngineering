@@ -1,4 +1,4 @@
-# Corso Reti S.p.A. - AI Engineering
+# Percorso Reti - Artificial Intelligence Engineering
 
 ## Lezione 1 
 
